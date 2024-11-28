@@ -15,6 +15,7 @@ criaCartao(
     'Qual foi a principal causa da Revolução Industrial e como ela afetou a sociedade?',
     'Foi o avanço das tecnologias, como a máquina a vapor. Isso levou à industrialização, ao crescimento das cidades e à formação de novas classes sociais, como a classe operária e a burguesia.'
 )
+
 criaCartao(
     'Biologia',
     'O que são ribossomos?',
@@ -26,6 +27,7 @@ criaCartao(
     'O que é a Lei da Conservação da Energia?',
     'A Lei da Conservação da Energia afirma que a energia total em um sistema fechado é constante, não podendo ser criada ou destruída, apenas transformada de uma forma para outra. Por exemplo, ao lançar uma bola para cima, a energia cinética se transforma em energia potencial e, ao descer, volta a ser cinética, mantendo a soma total inalterada.'
 )
+
 criaCartao(
     'Química',
     'O que é uma ligação iônica?',

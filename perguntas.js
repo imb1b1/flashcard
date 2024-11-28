@@ -13,11 +13,22 @@ criaCartao(
 criaCartao(
     'Historia',
     'Qual foi a principal causa da Revolução Industrial e como ela afetou a sociedade?',
-    'A principal causa da Revolução Industrial foi o avanço das tecnologias, como a máquina a vapor. Isso levou à industrialização, ao crescimento das cidades e à formação de novas classes sociais, como a classe operária e a burguesia. As condições de trabalho mudaram significativamente, afetando a vida das pessoas da época.'
+    'Foi o avanço das tecnologias, como a máquina a vapor. Isso levou à industrialização, ao crescimento das cidades e à formação de novas classes sociais, como a classe operária e a burguesia.'
+)
+criaCartao(
+    'Biologia',
+    'O que são ribossomos?',
+    'Ribossomos são estruturas que produzem proteínas nas células. Eles podem estar soltos no citoplasma ou ligados ao retículo endoplasmático.'
 )
 
 criaCartao(
-    'Biologia',
-    'O que são ribossomos e qual sua função nas células?',
-    'Ribossomos são estruturas que produzem proteínas nas células. Eles podem estar soltos no citoplasma ou ligados ao retículo endoplasmático. Sua função principal é "ler" o RNA mensageiro e montar as proteínas a partir de aminoácidos.'
+    'Física',
+    'O que é a Lei da Conservação da Energia?',
+    'A Lei da Conservação da Energia afirma que a energia total em um sistema fechado é constante, não podendo ser criada ou destruída, apenas transformada de uma forma para outra. Por exemplo, ao lançar uma bola para cima, a energia cinética se transforma em energia potencial e, ao descer, volta a ser cinética, mantendo a soma total inalterada.'
 )
+criaCartao(
+    'Química',
+    'O que é uma ligação iônica?',
+    'Uma ligação iônica é quando um átomo doa elétrons para outro átomo, formando íons que se atraem. Isso acontece, por exemplo, no sal (NaCl).'
+)
+
